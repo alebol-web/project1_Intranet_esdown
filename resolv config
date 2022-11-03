@@ -1,0 +1,4 @@
+#resolv.conf serv web
+
+nameserver 192.168.186.129
+search intranet-esd.eu #VOIR POUR LE METTRE DANS LE DNS DE L'ENTREPRISE
