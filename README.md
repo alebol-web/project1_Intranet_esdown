@@ -1,6 +1,6 @@
-# project1_Intranet_esdown
+##Projet ESDown > Intranet 
 
-réalisation du plan de l'intranet;
-type d'identification;
-création du serveur web;
-developpement de l'architecture du site;
+Début du projet = septembre 2022
+Fin provisoire = avril 2023
+
+Projet en en cours de developpement 
