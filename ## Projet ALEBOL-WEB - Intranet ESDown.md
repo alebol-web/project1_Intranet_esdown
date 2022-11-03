@@ -12,5 +12,7 @@
  - [ ] Réunion client finale
  
  Développeur sur le projet : Alebol, Bjamon 
+	
  Client : ESDown - ESD academy
+	
  Date de fin de projet provisoire : 01 avril 2022
