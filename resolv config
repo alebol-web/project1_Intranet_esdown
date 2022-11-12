@@ -1,3 +1,0 @@
-#resolv.conf serv web
-
-nameserver intranetesd.eu www.intranetesd.eu #Ne pas oublier d'associer l'ip au nom de domaine du projet
